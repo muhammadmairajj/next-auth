@@ -12,5 +12,7 @@ yarn dev
 pnpm dev
 ```
 
-## Next-Auth Login | SignUp in Next.js 13.5 with MongoDB Database - Login with Credentials, Google and Github
-### Live Demo Video Link
+### Next-Auth Login | SignUp in Next.js 13.5 with MongoDB Database - Login with Credentials, Google and Github
+#### Live Demo Video Link
+https://github.com/muhammadmairajj/next-auth/assets/89729024/26c0868a-b004-4364-a61f-79853f92e838
+
